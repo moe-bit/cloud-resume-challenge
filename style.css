@@ -9,6 +9,10 @@ body {
     
 }
 
+#visitor-counter {
+    margin: 10px;
+}
+
 #contact-info {
     width: 100%;
     text-align: center;
